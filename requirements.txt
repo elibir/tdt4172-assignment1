@@ -3,3 +3,7 @@ matplotlib
 pandas
 scikit-learn
 scipy
+seaborn
+catboost
+lightgbm
+xgboost
